@@ -52,7 +52,7 @@ npx playwright show-report
 - **Tests are configured to run in Chromium** (you can modify `playwright.config.ts` to use other browsers).  
 - **To run a specific test**, use:  
   ```sh
-  npx playwright test tests/<test-file-name>.spec.ts
+  npx playwright test tests/<test-file-name>.test.ts
   ```  
 - **For debugging**, run tests in UI mode:  
   ```sh
