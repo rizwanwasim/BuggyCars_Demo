@@ -64,3 +64,15 @@ npx playwright show-report
 Below is an screenshot as reference that was captured after test execution:
 
 ![Test Screenshot](screenshot.png)
+
+## GitHub Actions Test Results
+
+You can also verify that the tests have passed in **GitHub Actions** by checking the workflow runs.  
+To do this:
+1. Navigate to the **Actions** tab in your GitHub repository.
+2. Select the latest workflow run.
+3. Check the logs and reports to confirm test execution status.
+
+![Test Screenshot](gitactions.png)
+
+This ensures your tests are running smoothly in both local and CI/CD environments!
