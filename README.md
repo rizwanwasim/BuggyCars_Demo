@@ -61,6 +61,6 @@ npx playwright show-report
 
 ## Test Execution Screenshot
 
-Below is an example screenshot captured during test execution:
+Below is an screenshot as reference that was captured after test execution:
 
 ![Test Screenshot](screenshot.png)
