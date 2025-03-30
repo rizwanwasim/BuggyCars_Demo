@@ -1,0 +1,26 @@
+{
+  "name": "buggycars_demo",
+  "version": "1.0.0",
+  "description": "Buggy Cars Demo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwanwasim/BuggyCars_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rizwanwasim/BuggyCars_Demo/issues"
+  },
+  "homepage": "https://github.com/rizwanwasim/BuggyCars_Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
