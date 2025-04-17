@@ -42,7 +42,12 @@ npm install dotenv
 npx playwright test
 ```
 
-### **7. View Test Report**  
+### **7. Run Tests with Workers**  
+```sh
+npx playwright test --workers 4
+```
+
+### **8. View Test Report**  
 ```sh
 npx playwright show-report
 ```
